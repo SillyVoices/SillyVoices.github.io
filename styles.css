@@ -2,7 +2,15 @@ body{
     background-color: black;
 }
 
-.p{
+#about{
     color: white;
-
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5vw;
+}
+#gamesiplay{
+    color: white;
+    display: flex;
+  font-size: 5vw;
 }
